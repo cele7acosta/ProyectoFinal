@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ProyectoFinal.Dtos;
+using ProyectoFinal.Request;
 using ProyectoFinal.Factory;
 using ProyectoFinal.Interface;
 using ProyectoFinal.Singleton;

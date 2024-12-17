@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ProyectoFinal.Dtos
+namespace ProyectoFinal.Request
 {
-    public class AttackHeroRequest
+    public class DefendHeroRequest
     {
         [Required]
         public string Name { get; set; }

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ProyectoFinal.Dtos
+namespace ProyectoFinal.Request
 {
     public class VisitInfirmaryRequest
     {
